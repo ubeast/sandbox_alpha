@@ -5,4 +5,4 @@
 
 - https://guides.github.com/feed/index.xml
 - https://www.infoworld.com/article/3257671/github-tutorial-get-started-with-github.html
-- https://guides.github.com/activities/hello-world/
+- [GitHub HJello World](https://guides.github.com/activities/hello-world/)

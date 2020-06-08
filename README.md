@@ -1,6 +1,7 @@
 # sandbox_alpha
 - [ Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github?overlay=register-box-overlay)
 - [ Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github)
+- [s](https://lab.github.com/public/introduction-to-github.pdf)
 
 
 - [GitLab](https://lab.github.com/)
